@@ -4,6 +4,7 @@
       "name": "Mecánica",
       "sections": [
         {
+          "name": "Kinematics",
           "complexity": "promedio",
           "interest": "estupendo",
           "bool": "cierto"
