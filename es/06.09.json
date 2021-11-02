@@ -4,6 +4,7 @@
       "name": "Mecánica",
       "sections": [
         {
+          "name": "Kinematics",
           "complexity": "promedio",
           "interest": "estupendo",
           "bool": "cierto"
@@ -30,7 +31,8 @@
         {
           "name": "electrostática",
           "complexity": "cuatro",
-          "interest": "cinco"
+          "interest": "cinco",
+          "djgkjdrf": "jglo"
         }
       ]
     }
